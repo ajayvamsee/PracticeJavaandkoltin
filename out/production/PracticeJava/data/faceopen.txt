@@ -1,0 +1,963 @@
+{"date": ["23-04-16 15:39:18"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:18.569 29675  6243 D FaceOpenAdo: Full Packet response [1, 15, 0, 0, 1, 0, 4, 15, 1, 3, 1]"]}
+{"date": ["23-04-16 15:39:18"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:18.569 29675  6243 D FaceOpenAdo: Message Packet response [15, 1, 3, 1] MessageType [ ADO_INTENT_RESPONSE(15)] "]}
+{"date": ["23-04-16 15:39:18"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:18.569 29675  6243 D FaceOpenAdo: ADO_INTENT_RESPONSE"]}
+{"date": ["23-04-16 15:39:19"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:18.973 29675  6243 D FaceOpenAdo: Full Packet response [1, 15, 0, 0, 1, 0, 4, 15, 1, 3, 1]"]}
+{"date": ["23-04-16 15:39:19"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:18.974 29675  6243 D FaceOpenAdo: Message Packet response [15, 1, 3, 1] MessageType [ ADO_INTENT_RESPONSE(15)] "]}
+{"date": ["23-04-16 15:39:19"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:18.974 29675  6243 D FaceOpenAdo: ADO_INTENT_RESPONSE"]}
+{"date": ["23-04-16 15:39:19"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:19.108 29675  6243 D FaceOpenAdo: Full Packet response [1, 15, 0, 0, 1, 0, 3, 12, 1, 1]"]}
+{"date": ["23-04-16 15:39:19"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:19.109 29675  6243 D FaceOpenAdo: Message Packet response [12, 1, 1] MessageType [ ADO_OPERATIONS_RESPONSE(12)] "]}
+{"date": ["23-04-16 15:39:19"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:19.109 29675  6243 D FaceOpenAdo: ADO_OPERATIONS_RESPONSE"]}
+{"date": ["23-04-16 15:39:19"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:19.559 29675  6243 D FaceOpenAdo: Full Packet response [1, 15, 0, 0, 1, 0, 4, 15, 1, 3, 1]"]}
+{"date": ["23-04-16 15:39:19"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:19.559 29675  6243 D FaceOpenAdo: Message Packet response [15, 1, 3, 1] MessageType [ ADO_INTENT_RESPONSE(15)] "]}
+{"date": ["23-04-16 15:39:19"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:19.559 29675  6243 D FaceOpenAdo: ADO_INTENT_RESPONSE"]}
+{"date": ["23-04-16 15:39:25"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:25.093 29675 20946 D FaceOpenAdo: Full Packet response [1, 15, 0, 0, 1, 0, 3, 12, 1, 2]"]}
+{"date": ["23-04-16 15:39:25"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:25.093 29675 20946 D FaceOpenAdo: Message Packet response [12, 1, 2] MessageType [ ADO_OPERATIONS_RESPONSE(12)] "]}
+{"date": ["23-04-16 15:39:25"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:25.093 29675 20946 D FaceOpenAdo: ADO_OPERATIONS_RESPONSE"]}
+{"date": ["23-04-16 15:39:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:37.751 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:37.751 29675 29675 D FaceOpenAdo: request 1   9[1, 16, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:37.828 29675 20946 D FaceOpenAdo: Full Packet response [1, 16, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:37.828 29675 20946 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:37.828 29675 20946 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:37.830 29675 20946 D FaceOpenAdo: Full Packet response [1, 16, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:39:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:37.831 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:39:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:37.831 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:39:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:37.831 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:39:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:37.836 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:39:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:38.753 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:38.753 29675 29675 D FaceOpenAdo: request 1   9[1, 17, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:38.818 29675  6243 D FaceOpenAdo: Full Packet response [1, 17, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:38.818 29675  6243 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:38.818 29675  6243 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:38.819 29675  6243 D FaceOpenAdo: Full Packet response [1, 17, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:39:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:38.819 29675  6243 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:39:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:38.819 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:39:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:38.819 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:39:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:38.823 29675  6243 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:39:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:39.755 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:39.755 29675 29675 D FaceOpenAdo: request 1   9[1, 18, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:39.853 29675  6243 D FaceOpenAdo: Full Packet response [1, 18, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:39.853 29675  6243 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:39.853 29675  6243 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:39.853 29675 20946 D FaceOpenAdo: Full Packet response [1, 18, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:39:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:39.854 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:39:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:39.854 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:39:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:39.854 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:39:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:39.859 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:39:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:40.758 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:40.758 29675 29675 D FaceOpenAdo: request 1   9[1, 19, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:40.888 29675 20946 D FaceOpenAdo: Full Packet response [1, 19, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:40.888 29675 20946 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:40.888 29675 20946 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:40.889 29675 20946 D FaceOpenAdo: Full Packet response [1, 19, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:39:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:40.889 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:39:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:40.889 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:39:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:40.889 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:39:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:40.892 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:39:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:41.760 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:41.760 29675 29675 D FaceOpenAdo: request 1   9[1, 20, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:41.835 29675 20946 D FaceOpenAdo: Full Packet response [1, 20, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:41.836 29675 20946 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:41.836 29675 20946 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:41.836 29675 20946 D FaceOpenAdo: Full Packet response [1, 20, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:39:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:41.836 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:39:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:41.836 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:39:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:41.836 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:39:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:41.838 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:39:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:42.763 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:42.763 29675 29675 D FaceOpenAdo: request 1   9[1, 21, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:42.823 29675 20946 D FaceOpenAdo: Full Packet response [1, 21, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:42.823 29675 20946 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:42.823 29675 20946 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:42.823 29675 20946 D FaceOpenAdo: Full Packet response [1, 21, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:39:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:42.823 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:39:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:42.824 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:39:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:42.824 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:39:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:42.825 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:39:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:43.764 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:43.764 29675 29675 D FaceOpenAdo: request 1   9[1, 22, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:43.858 29675 20946 D FaceOpenAdo: Full Packet response [1, 22, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:43.858 29675 20946 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:43.858 29675 20946 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:43.860 29675  6241 D FaceOpenAdo: Full Packet response [1, 22, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:39:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:43.860 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:39:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:43.860 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:39:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:43.860 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:39:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:43.861 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:39:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:44.767 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:44.767 29675 29675 D FaceOpenAdo: request 1   9[1, 23, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:44.848 29675  6241 D FaceOpenAdo: Full Packet response [1, 23, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:44.848 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:44.848 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:44.849 29675  6241 D FaceOpenAdo: Full Packet response [1, 23, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:39:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:44.849 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:39:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:44.849 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:39:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:44.849 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:39:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:44.850 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:39:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:45.768 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:45.768 29675 29675 D FaceOpenAdo: request 1   9[1, 24, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:45.839 29675  6241 D FaceOpenAdo: Full Packet response [1, 24, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:45.839 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:45.839 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:45.840 29675  6241 D FaceOpenAdo: Full Packet response [1, 24, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:39:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:45.840 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:39:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:45.840 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:39:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:45.840 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:39:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:45.841 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:39:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:46.770 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:46.770 29675 29675 D FaceOpenAdo: request 1   9[1, 25, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:46.875 29675  6241 D FaceOpenAdo: Full Packet response [1, 25, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:46.875 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:46.875 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:46.876 29675 20946 D FaceOpenAdo: Full Packet response [1, 25, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:39:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:46.876 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:39:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:46.876 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:39:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:46.876 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:39:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:46.878 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:39:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:47.773 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:47.773 29675 29675 D FaceOpenAdo: request 1   9[1, 26, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:47.909 29675  6241 D FaceOpenAdo: Full Packet response [1, 26, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:47.909 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:47.909 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:47.910 29675  6241 D FaceOpenAdo: Full Packet response [1, 26, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:39:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:47.910 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:39:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:47.910 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:39:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:47.910 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:39:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:47.912 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:39:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:48.775 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:48.775 29675 29675 D FaceOpenAdo: request 1   9[1, 27, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:48.899 29675  6241 D FaceOpenAdo: Full Packet response [1, 27, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:48.899 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:48.899 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:48.901 29675  6241 D FaceOpenAdo: Full Packet response [1, 27, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:39:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:48.901 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:39:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:48.901 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:39:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:48.901 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:39:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:48.904 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:39:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:49.619 29675  6241 D FaceOpenAdo: Full Packet response [1, 27, 0, 0, 1, 0, 3, 12, 2, 3]"]}
+{"date": ["23-04-16 15:39:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:49.619 29675  6241 D FaceOpenAdo: Message Packet response [12, 2, 3] MessageType [ ADO_OPERATIONS_RESPONSE(12)] "]}
+{"date": ["23-04-16 15:39:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:49.619 29675  6241 D FaceOpenAdo: ADO_OPERATIONS_RESPONSE"]}
+{"date": ["23-04-16 15:39:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:49.776 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:49.776 29675 29675 D FaceOpenAdo: request 1   9[1, 28, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:49.889 29675  6241 D FaceOpenAdo: Full Packet response [1, 28, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:49.889 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:49.889 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:50.778 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:50.778 29675 29675 D FaceOpenAdo: request 1   9[1, 29, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:50.834 29675 20946 D FaceOpenAdo: Full Packet response [1, 29, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:50.834 29675 20946 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:50.834 29675 20946 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:50.923 29675  6241 D FaceOpenAdo: Full Packet response [1, 29, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:39:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:50.924 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:39:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:50.924 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:39:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:50.924 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:39:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:50.925 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:39:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:51.780 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:51.780 29675 29675 D FaceOpenAdo: request 1   9[1, 30, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:51.915 29675  6241 D FaceOpenAdo: Full Packet response [1, 30, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:51.915 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:51.915 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:51.958 29675  6241 D FaceOpenAdo: Full Packet response [1, 30, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:39:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:51.958 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:39:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:51.958 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:39:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:51.958 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:39:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:51.960 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:39:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:52.781 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:52.781 29675 29675 D FaceOpenAdo: request 1   9[1, 31, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:52.904 29675  6241 D FaceOpenAdo: Full Packet response [1, 31, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:52.904 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:52.904 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:52.993 29675 20946 D FaceOpenAdo: Full Packet response [1, 31, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:39:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:52.994 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:39:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:52.994 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:39:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:52.994 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:39:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:52.995 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:39:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:53.783 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:53.783 29675 29675 D FaceOpenAdo: request 1   9[1, 32, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:53.848 29675 20946 D FaceOpenAdo: Full Packet response [1, 32, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:53.848 29675 20946 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:53.848 29675 20946 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:53.894 29675 20946 D FaceOpenAdo: Full Packet response [1, 32, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:39:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:53.894 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:39:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:53.894 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:39:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:53.894 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:39:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:53.896 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:39:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:54.784 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:54.784 29675 29675 D FaceOpenAdo: request 1   9[1, 33, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:54.838 29675 20946 D FaceOpenAdo: Full Packet response [1, 33, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:54.838 29675 20946 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:54.838 29675 20946 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:54.884 29675 20946 D FaceOpenAdo: Full Packet response [1, 33, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:39:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:54.885 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:39:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:54.885 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:39:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:54.885 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:39:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:54.887 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:39:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:55.786 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:55.786 29675 29675 D FaceOpenAdo: request 1   9[1, 34, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:55.873 29675 20946 D FaceOpenAdo: Full Packet response [1, 34, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:55.873 29675 20946 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:55.873 29675 20946 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:55.964 29675 20946 D FaceOpenAdo: Full Packet response [1, 34, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:39:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:55.965 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:39:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:55.965 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:39:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:55.965 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:39:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:55.968 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:39:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:56.788 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:56.788 29675 29675 D FaceOpenAdo: request 1   9[1, 35, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:56.908 29675 20946 D FaceOpenAdo: Full Packet response [1, 35, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:56.908 29675 20946 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:56.908 29675 20946 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:56.999 29675 20946 D FaceOpenAdo: Full Packet response [1, 35, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:39:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:57.000 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:39:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:57.000 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:39:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:57.000 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:39:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:57.002 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:39:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:57.673 29675 20946 D FaceOpenAdo: Full Packet response [1, 35, 0, 0, 1, 0, 3, 12, 2, 4]"]}
+{"date": ["23-04-16 15:39:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:57.674 29675 20946 D FaceOpenAdo: Message Packet response [12, 2, 4] MessageType [ ADO_OPERATIONS_RESPONSE(12)] "]}
+{"date": ["23-04-16 15:39:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:57.674 29675 20946 D FaceOpenAdo: ADO_OPERATIONS_RESPONSE"]}
+{"date": ["23-04-16 15:39:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:57.789 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:57.789 29675 29675 D FaceOpenAdo: request 1   9[1, 36, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:57.898 29675 20946 D FaceOpenAdo: Full Packet response [1, 36, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:57.899 29675 20946 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:57.899 29675 20946 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:57.988 29675 20946 D FaceOpenAdo: Full Packet response [1, 36, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:39:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:57.989 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:39:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:57.989 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:39:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:57.989 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:39:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:57.990 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:39:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:58.791 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:39:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:58.791 29675 29675 D FaceOpenAdo: request 1   9[1, 37, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:39:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:58.843 29675 20946 D FaceOpenAdo: Full Packet response [1, 37, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:39:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:58.844 29675 20946 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:39:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:58.844 29675 20946 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:39:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:58.889 29675  6241 D FaceOpenAdo: Full Packet response [1, 37, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:39:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:58.890 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:39:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:58.890 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:39:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:58.890 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:39:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:58.892 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:59.793 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:59.793 29675 29675 D FaceOpenAdo: request 1   9[1, 38, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:59.878 29675  6241 D FaceOpenAdo: Full Packet response [1, 38, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:59.879 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:59.879 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:59.924 29675  6241 D FaceOpenAdo: Full Packet response [1, 38, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:59.924 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:59.924 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:59.924 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:59.926 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:00.795 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:00.795 29675 29675 D FaceOpenAdo: request 1   9[1, 39, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:00.868 29675  6241 D FaceOpenAdo: Full Packet response [1, 39, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:00.869 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:00.869 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:00.913 29675 20946 D FaceOpenAdo: Full Packet response [1, 39, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:00.914 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:00.914 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:00.914 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:00.916 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:01.797 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:01.797 29675 29675 D FaceOpenAdo: request 1   9[1, 40, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:01.904 29675 20946 D FaceOpenAdo: Full Packet response [1, 40, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:01.904 29675 20946 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:01.904 29675 20946 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:01.949 29675 20946 D FaceOpenAdo: Full Packet response [1, 40, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:01.950 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:01.950 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:01.950 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:01.952 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:03"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:02.798 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:03"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:02.798 29675 29675 D FaceOpenAdo: request 1   9[1, 41, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:03"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:02.893 29675 20946 D FaceOpenAdo: Full Packet response [1, 41, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:03"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:02.893 29675 20946 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:03"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:02.893 29675 20946 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:03"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:02.984 29675  6241 D FaceOpenAdo: Full Packet response [1, 41, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:03"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:02.984 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:03"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:02.984 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:03"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:02.984 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:03"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:02.987 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:04"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:03.799 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:04"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:03.800 29675 29675 D FaceOpenAdo: request 1   9[1, 42, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:04"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:03.929 29675  6241 D FaceOpenAdo: Full Packet response [1, 42, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:04"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:03.929 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:04"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:03.929 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:04"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:03.930 29675  6241 D FaceOpenAdo: Full Packet response [1, 42, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:04"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:03.930 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:04"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:03.930 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:04"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:03.930 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:04"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:03.931 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:04.802 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:04.802 29675 29675 D FaceOpenAdo: request 1   9[1, 43, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:04.964 29675  6241 D FaceOpenAdo: Full Packet response [1, 43, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:04.964 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:04.964 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:04.964 29675  6241 D FaceOpenAdo: Full Packet response [1, 43, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:04.965 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:04.965 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:04.965 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:04.966 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:06"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:05.804 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:06"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:05.804 29675 29675 D FaceOpenAdo: request 1   9[1, 44, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:06"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:05.863 29675  6241 D FaceOpenAdo: Full Packet response [1, 44, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:06"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:05.863 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:06"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:05.863 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:06"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:05.864 29675  6241 D FaceOpenAdo: Full Packet response [1, 44, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:06"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:05.864 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:06"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:05.864 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:06"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:05.864 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:06"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:05.867 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:37.169 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:37.170 29675 29675 D FaceOpenAdo: request 1   9[1, 45, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:37.272 29675  6243 D FaceOpenAdo: Full Packet response [1, 45, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:37.272 29675  6243 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:37.273 29675  6243 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:37.273 29675  6243 D FaceOpenAdo: Full Packet response [1, 45, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:37.273 29675  6243 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:37.273 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:37.273 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:37.274 29675  6243 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.171 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.171 29675 29675 D FaceOpenAdo: request 1   9[1, 46, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.263 29675  6243 D FaceOpenAdo: Full Packet response [1, 46, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.264 29675  6243 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.264 29675  6243 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.266 29675  6243 D FaceOpenAdo: Full Packet response [1, 46, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.171 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.171 29675 29675 D FaceOpenAdo: request 1   9[1, 46, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.263 29675  6243 D FaceOpenAdo: Full Packet response [1, 46, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.264 29675  6243 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.264 29675  6243 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.266 29675  6243 D FaceOpenAdo: Full Packet response [1, 46, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.267 29675  6243 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.267 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.267 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.268 29675  6243 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.267 29675  6243 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.267 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.267 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.268 29675  6243 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.172 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.172 29675 29675 D FaceOpenAdo: request 1   9[1, 47, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.172 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.172 29675 29675 D FaceOpenAdo: request 1   9[1, 47, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.254 29675  6243 D FaceOpenAdo: Full Packet response [1, 47, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.254 29675  6243 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.254 29675  6243 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.255 29675  6243 D FaceOpenAdo: Full Packet response [1, 47, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.254 29675  6243 D FaceOpenAdo: Full Packet response [1, 47, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.254 29675  6243 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.254 29675  6243 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.255 29675  6243 D FaceOpenAdo: Full Packet response [1, 47, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.255 29675  6243 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.255 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.255 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.257 29675  6243 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.255 29675  6243 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.255 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.255 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.257 29675  6243 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.174 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.174 29675 29675 D FaceOpenAdo: request 1   9[1, 48, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.174 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.174 29675 29675 D FaceOpenAdo: request 1   9[1, 48, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.288 29675  6243 D FaceOpenAdo: Full Packet response [1, 48, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.288 29675  6243 D FaceOpenAdo: Full Packet response [1, 48, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.289 29675  6243 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.289 29675  6243 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.289 29675  6243 D FaceOpenAdo: Full Packet response [1, 48, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.289 29675  6243 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.289 29675  6243 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.289 29675  6243 D FaceOpenAdo: Full Packet response [1, 48, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.289 29675  6243 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.289 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.289 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.295 29675  6243 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.289 29675  6243 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.289 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.289 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.295 29675  6243 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.176 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.176 29675 29675 D FaceOpenAdo: request 1   9[1, 49, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.176 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.176 29675 29675 D FaceOpenAdo: request 1   9[1, 49, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.279 29675  6243 D FaceOpenAdo: Full Packet response [1, 49, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.279 29675  6243 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.279 29675  6243 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.279 29675  6243 D FaceOpenAdo: Full Packet response [1, 49, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.279 29675  6243 D FaceOpenAdo: Full Packet response [1, 49, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.279 29675  6243 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.279 29675  6243 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.279 29675  6243 D FaceOpenAdo: Full Packet response [1, 49, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.280 29675  6243 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.280 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.280 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.281 29675  6243 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.280 29675  6243 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.280 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.280 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.281 29675  6243 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.178 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.178 29675 29675 D FaceOpenAdo: request 1   9[1, 50, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.178 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.178 29675 29675 D FaceOpenAdo: request 1   9[1, 50, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.268 29675  6243 D FaceOpenAdo: Full Packet response [1, 50, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.268 29675  6243 D FaceOpenAdo: Full Packet response [1, 50, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.269 29675  6243 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.269 29675  6243 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.269 29675  6243 D FaceOpenAdo: Full Packet response [1, 50, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.269 29675  6243 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.269 29675  6243 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.269 29675  6243 D FaceOpenAdo: Full Packet response [1, 50, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.269 29675  6243 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.269 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.270 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.271 29675  6243 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.269 29675  6243 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.269 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.270 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.271 29675  6243 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.180 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.180 29675 29675 D FaceOpenAdo: request 1   9[1, 51, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.180 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.180 29675 29675 D FaceOpenAdo: request 1   9[1, 51, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.257 29675  6243 D FaceOpenAdo: Full Packet response [1, 51, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.257 29675  6243 D FaceOpenAdo: Full Packet response [1, 51, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.258 29675  6243 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.258 29675  6243 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.259 29675  6243 D FaceOpenAdo: Full Packet response [1, 51, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.258 29675  6243 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.258 29675  6243 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.259 29675  6243 D FaceOpenAdo: Full Packet response [1, 51, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.259 29675  6243 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.259 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.259 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.261 29675  6243 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.259 29675  6243 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.259 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.259 29675  6243 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.261 29675  6243 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.181 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.181 29675 29675 D FaceOpenAdo: request 1   9[1, 52, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.181 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.181 29675 29675 D FaceOpenAdo: request 1   9[1, 52, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.249 29675  6243 D FaceOpenAdo: Full Packet response [1, 52, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.249 29675  6243 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.249 29675  6243 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.250 29675  6241 D FaceOpenAdo: Full Packet response [1, 52, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.249 29675  6243 D FaceOpenAdo: Full Packet response [1, 52, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.249 29675  6243 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.249 29675  6243 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.250 29675  6241 D FaceOpenAdo: Full Packet response [1, 52, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.250 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.250 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.250 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.255 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.250 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.250 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.250 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.255 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.182 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.183 29675 29675 D FaceOpenAdo: request 1   9[1, 53, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.182 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.183 29675 29675 D FaceOpenAdo: request 1   9[1, 53, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.239 29675  6241 D FaceOpenAdo: Full Packet response [1, 53, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.239 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.239 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.239 29675  6241 D FaceOpenAdo: Full Packet response [1, 53, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.239 29675  6241 D FaceOpenAdo: Full Packet response [1, 53, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.239 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.239 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.239 29675  6241 D FaceOpenAdo: Full Packet response [1, 53, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.240 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.240 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.240 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.240 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.240 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.241 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.240 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.241 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.185 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.185 29675 29675 D FaceOpenAdo: request 1   9[1, 54, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.185 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.185 29675 29675 D FaceOpenAdo: request 1   9[1, 54, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.323 29675  6241 D FaceOpenAdo: Full Packet response [1, 54, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.323 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.323 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.325 29675  6241 D FaceOpenAdo: Full Packet response [1, 54, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.323 29675  6241 D FaceOpenAdo: Full Packet response [1, 54, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.323 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.323 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.325 29675  6241 D FaceOpenAdo: Full Packet response [1, 54, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.325 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.325 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.325 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.328 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.325 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.325 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.325 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.328 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.186 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.186 29675 29675 D FaceOpenAdo: request 1   9[1, 55, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.186 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.186 29675 29675 D FaceOpenAdo: request 1   9[1, 55, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.263 29675  6241 D FaceOpenAdo: Full Packet response [1, 55, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.263 29675  6241 D FaceOpenAdo: Full Packet response [1, 55, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.263 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.263 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.268 29675  6241 D FaceOpenAdo: Full Packet response [1, 55, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.263 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.263 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.268 29675  6241 D FaceOpenAdo: Full Packet response [1, 55, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.268 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.268 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.268 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.270 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.268 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.268 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.268 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.270 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.187 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.188 29675 29675 D FaceOpenAdo: request 1   9[1, 56, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.187 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.188 29675 29675 D FaceOpenAdo: request 1   9[1, 56, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.299 29675  6241 D FaceOpenAdo: Full Packet response [1, 56, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.299 29675  6241 D FaceOpenAdo: Full Packet response [1, 56, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.299 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.299 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.300 29675  6241 D FaceOpenAdo: Full Packet response [1, 56, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.299 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.299 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.300 29675  6241 D FaceOpenAdo: Full Packet response [1, 56, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.300 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.300 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.300 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.303 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.300 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.300 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.300 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.303 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.189 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.189 29675 29675 D FaceOpenAdo: request 1   9[1, 57, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.189 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.189 29675 29675 D FaceOpenAdo: request 1   9[1, 57, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.243 29675  6241 D FaceOpenAdo: Full Packet response [1, 57, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.244 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.244 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.244 29675  6241 D FaceOpenAdo: Full Packet response [1, 57, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.243 29675  6241 D FaceOpenAdo: Full Packet response [1, 57, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.244 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.244 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.244 29675  6241 D FaceOpenAdo: Full Packet response [1, 57, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.245 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.245 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.245 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.246 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.245 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.245 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.245 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.246 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.190 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.190 29675 29675 D FaceOpenAdo: request 1   9[1, 58, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.190 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.190 29675 29675 D FaceOpenAdo: request 1   9[1, 58, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.278 29675  6241 D FaceOpenAdo: Full Packet response [1, 58, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.278 29675  6241 D FaceOpenAdo: Full Packet response [1, 58, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.279 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.279 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.280 29675  6241 D FaceOpenAdo: Full Packet response [1, 58, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.279 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.279 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.280 29675  6241 D FaceOpenAdo: Full Packet response [1, 58, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.281 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.281 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.281 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.282 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.281 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.281 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.281 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.282 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.192 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.192 29675 29675 D FaceOpenAdo: request 1   9[1, 59, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.192 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.192 29675 29675 D FaceOpenAdo: request 1   9[1, 59, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.313 29675  6241 D FaceOpenAdo: Full Packet response [1, 59, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.313 29675  6241 D FaceOpenAdo: Full Packet response [1, 59, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.314 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.314 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.314 29675  6241 D FaceOpenAdo: Full Packet response [1, 59, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.314 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.314 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.314 29675  6241 D FaceOpenAdo: Full Packet response [1, 59, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.314 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.314 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.314 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.315 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.314 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.314 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.314 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.315 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.194 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.194 29675 29675 D FaceOpenAdo: request 1   9[1, 60, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.194 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.194 29675 29675 D FaceOpenAdo: request 1   9[1, 60, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.304 29675  6241 D FaceOpenAdo: Full Packet response [1, 60, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.304 29675  6241 D FaceOpenAdo: Full Packet response [1, 60, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.305 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.305 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.305 29675  6241 D FaceOpenAdo: Full Packet response [1, 60, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.305 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.305 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.305 29675  6241 D FaceOpenAdo: Full Packet response [1, 60, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.306 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.306 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.306 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.308 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.306 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.306 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.306 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.308 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.195 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.195 29675 29675 D FaceOpenAdo: request 1   9[1, 61, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.195 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.195 29675 29675 D FaceOpenAdo: request 1   9[1, 61, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.293 29675  6241 D FaceOpenAdo: Full Packet response [1, 61, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.293 29675  6241 D FaceOpenAdo: Full Packet response [1, 61, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.294 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.294 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.294 29675  6241 D FaceOpenAdo: Full Packet response [1, 61, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.294 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.294 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.294 29675  6241 D FaceOpenAdo: Full Packet response [1, 61, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.295 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.295 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.295 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.297 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.295 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.295 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.295 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.297 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.197 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.197 29675 29675 D FaceOpenAdo: request 1   9[1, 62, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.197 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.197 29675 29675 D FaceOpenAdo: request 1   9[1, 62, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.329 29675  6241 D FaceOpenAdo: Full Packet response [1, 62, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.329 29675  6241 D FaceOpenAdo: Full Packet response [1, 62, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.329 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.329 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.330 29675  6241 D FaceOpenAdo: Full Packet response [1, 62, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.329 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.329 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.330 29675  6241 D FaceOpenAdo: Full Packet response [1, 62, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.330 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.330 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.330 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.333 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.330 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.330 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.330 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.333 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.689 29675  6241 D FaceOpenAdo: Full Packet response [1, 62, 0, 0, 1, 0, 4, 15, 1, 3, 2]"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.690 29675  6241 D FaceOpenAdo: Message Packet response [15, 1, 3, 2] MessageType [ ADO_INTENT_RESPONSE(15)] "]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.690 29675  6241 D FaceOpenAdo: ADO_INTENT_RESPONSE"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.691 29675  6241 D FaceOpenAdo: Full Packet response [1, 62, 0, 0, 1, 0, 3, 12, 2, 3]"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.692 29675  6241 D FaceOpenAdo: Message Packet response [12, 2, 3] MessageType [ ADO_OPERATIONS_RESPONSE(12)] "]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.692 29675  6241 D FaceOpenAdo: ADO_OPERATIONS_RESPONSE"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.689 29675  6241 D FaceOpenAdo: Full Packet response [1, 62, 0, 0, 1, 0, 4, 15, 1, 3, 2]"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.690 29675  6241 D FaceOpenAdo: Message Packet response [15, 1, 3, 2] MessageType [ ADO_INTENT_RESPONSE(15)] "]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.690 29675  6241 D FaceOpenAdo: ADO_INTENT_RESPONSE"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.691 29675  6241 D FaceOpenAdo: Full Packet response [1, 62, 0, 0, 1, 0, 3, 12, 2, 3]"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.692 29675  6241 D FaceOpenAdo: Message Packet response [12, 2, 3] MessageType [ ADO_OPERATIONS_RESPONSE(12)] "]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.692 29675  6241 D FaceOpenAdo: ADO_OPERATIONS_RESPONSE"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.094 29675  6241 D FaceOpenAdo: Full Packet response [1, 62, 0, 0, 1, 0, 4, 15, 1, 3, 2]"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.094 29675  6241 D FaceOpenAdo: Full Packet response [1, 62, 0, 0, 1, 0, 4, 15, 1, 3, 2]"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.094 29675  6241 D FaceOpenAdo: Message Packet response [15, 1, 3, 2] MessageType [ ADO_INTENT_RESPONSE(15)] "]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.094 29675  6241 D FaceOpenAdo: ADO_INTENT_RESPONSE"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.094 29675  6241 D FaceOpenAdo: Message Packet response [15, 1, 3, 2] MessageType [ ADO_INTENT_RESPONSE(15)] "]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.094 29675  6241 D FaceOpenAdo: ADO_INTENT_RESPONSE"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.199 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.199 29675 29675 D FaceOpenAdo: request 1   9[1, 63, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.199 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.199 29675 29675 D FaceOpenAdo: request 1   9[1, 63, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.273 29675  6241 D FaceOpenAdo: Full Packet response [1, 63, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.273 29675  6241 D FaceOpenAdo: Full Packet response [1, 63, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.273 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.273 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.273 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.273 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.364 29675  6241 D FaceOpenAdo: Full Packet response [1, 63, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.364 29675  6241 D FaceOpenAdo: Full Packet response [1, 63, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.365 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.365 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.365 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.365 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.365 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.365 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.371 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.371 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.679 29675  6241 D FaceOpenAdo: Full Packet response [1, 63, 0, 0, 1, 0, 4, 15, 1, 3, 2]"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.679 29675  6241 D FaceOpenAdo: Full Packet response [1, 63, 0, 0, 1, 0, 4, 15, 1, 3, 2]"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.679 29675  6241 D FaceOpenAdo: Message Packet response [15, 1, 3, 2] MessageType [ ADO_INTENT_RESPONSE(15)] "]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.679 29675  6241 D FaceOpenAdo: ADO_INTENT_RESPONSE"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.679 29675  6241 D FaceOpenAdo: Message Packet response [15, 1, 3, 2] MessageType [ ADO_INTENT_RESPONSE(15)] "]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.679 29675  6241 D FaceOpenAdo: ADO_INTENT_RESPONSE"]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.200 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.200 29675 29675 D FaceOpenAdo: request 1   9[1, 64, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.200 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.200 29675 29675 D FaceOpenAdo: request 1   9[1, 64, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.309 29675  6241 D FaceOpenAdo: Full Packet response [1, 64, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.309 29675  6241 D FaceOpenAdo: Full Packet response [1, 64, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.309 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.309 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.309 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.309 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.354 29675 20946 D FaceOpenAdo: Full Packet response [1, 64, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.354 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.354 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.354 29675 20946 D FaceOpenAdo: Full Packet response [1, 64, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.354 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.354 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.354 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.361 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.354 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.361 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.202 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.202 29675 29675 D FaceOpenAdo: request 1   9[1, 65, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.202 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.202 29675 29675 D FaceOpenAdo: request 1   9[1, 65, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.298 29675 20946 D FaceOpenAdo: Full Packet response [1, 65, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.298 29675 20946 D FaceOpenAdo: Full Packet response [1, 65, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.298 29675 20946 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.298 29675 20946 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.298 29675 20946 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.298 29675 20946 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.388 29675 20946 D FaceOpenAdo: Full Packet response [1, 65, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.389 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.389 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.389 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.388 29675 20946 D FaceOpenAdo: Full Packet response [1, 65, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.389 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.389 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.389 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.390 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.390 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.203 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.203 29675 29675 D FaceOpenAdo: request 1   9[1, 66, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.203 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.203 29675 29675 D FaceOpenAdo: request 1   9[1, 66, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.289 29675 20946 D FaceOpenAdo: Full Packet response [1, 66, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.289 29675 20946 D FaceOpenAdo: Full Packet response [1, 66, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.289 29675 20946 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.289 29675 20946 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.289 29675 20946 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.289 29675 20946 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.333 29675  6241 D FaceOpenAdo: Full Packet response [1, 66, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.334 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.334 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.333 29675  6241 D FaceOpenAdo: Full Packet response [1, 66, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.334 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.334 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.334 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.336 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.334 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.336 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.204 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.204 29675 29675 D FaceOpenAdo: request 1   9[1, 67, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.204 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.204 29675 29675 D FaceOpenAdo: request 1   9[1, 67, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.280 29675  6241 D FaceOpenAdo: Full Packet response [1, 67, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.280 29675  6241 D FaceOpenAdo: Full Packet response [1, 67, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.280 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.280 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.280 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.280 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.368 29675  6241 D FaceOpenAdo: Full Packet response [1, 67, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.368 29675  6241 D FaceOpenAdo: Full Packet response [1, 67, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.369 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.369 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.369 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.369 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.369 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.369 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.371 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.371 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.206 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.206 29675 29675 D FaceOpenAdo: request 1   9[1, 68, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.206 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.206 29675 29675 D FaceOpenAdo: request 1   9[1, 68, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.268 29675  6241 D FaceOpenAdo: Full Packet response [1, 68, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.268 29675  6241 D FaceOpenAdo: Full Packet response [1, 68, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.269 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.269 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.269 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.269 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.319 29675  6241 D FaceOpenAdo: Full Packet response [1, 68, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.319 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.319 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.319 29675  6241 D FaceOpenAdo: Full Packet response [1, 68, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.319 29675  6241 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.319 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.319 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.321 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.321 29675  6241 D FaceOpenAdo: Full Packet response [1, 68, 0, 0, 1, 0, 3, 12, 2, 4]"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.321 29675  6241 D FaceOpenAdo: Message Packet response [12, 2, 4] MessageType [ ADO_OPERATIONS_RESPONSE(12)] "]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.321 29675  6241 D FaceOpenAdo: ADO_OPERATIONS_RESPONSE"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.319 29675  6241 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.321 29675  6241 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.321 29675  6241 D FaceOpenAdo: Full Packet response [1, 68, 0, 0, 1, 0, 3, 12, 2, 4]"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.321 29675  6241 D FaceOpenAdo: Message Packet response [12, 2, 4] MessageType [ ADO_OPERATIONS_RESPONSE(12)] "]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.321 29675  6241 D FaceOpenAdo: ADO_OPERATIONS_RESPONSE"]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.207 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.207 29675 29675 D FaceOpenAdo: request 1   9[1, 69, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.207 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.207 29675 29675 D FaceOpenAdo: request 1   9[1, 69, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.303 29675  6241 D FaceOpenAdo: Full Packet response [1, 69, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.303 29675  6241 D FaceOpenAdo: Full Packet response [1, 69, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.304 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.304 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.304 29675  6241 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.304 29675  6241 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.349 29675 20946 D FaceOpenAdo: Full Packet response [1, 69, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.350 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.350 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.349 29675 20946 D FaceOpenAdo: Full Packet response [1, 69, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.350 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.350 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.350 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.353 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.350 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.353 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.208 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.208 29675 29675 D FaceOpenAdo: request 1   9[1, 70, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.208 29675 29675 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.208 29675 29675 D FaceOpenAdo: request 1   9[1, 70, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.293 29675 20946 D FaceOpenAdo: Full Packet response [1, 70, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.293 29675 20946 D FaceOpenAdo: Full Packet response [1, 70, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.293 29675 20946 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.293 29675 20946 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.293 29675 20946 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.293 29675 20946 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.428 29675 20946 D FaceOpenAdo: Full Packet response [1, 70, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.429 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.429 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.429 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.428 29675 20946 D FaceOpenAdo: Full Packet response [1, 70, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.429 29675 20946 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.429 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.429 29675 20946 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.431 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.431 29675 20946 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:41:35"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:35.296 32333 32333 D FaceOpenAdo: connect: ADO_STATE_DISCONNECTED"]}
+{"date": ["23-04-16 15:41:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:36.837 32333   550 D FaceOpenAdo: onConnectionStateChange CONNECTED"]}
+{"date": ["23-04-16 15:41:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:36.848 32333   550 E FaceOpenAdo: Char : f0ad0102-6661-6365-6f70-656e6f626f74"]}
+{"date": ["23-04-16 15:41:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:36.849 32333   550 E FaceOpenAdo: Char : f0ad0101-6661-6365-6f70-656e6f626f74"]}
+{"date": ["23-04-16 15:41:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:36.849 32333   550 E FaceOpenAdo: Char : 0e0858b2-c584-11ed-afa1-0242ac120002"]}
+{"date": ["23-04-16 15:41:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:36.850 32333   550 E FaceOpenAdo: Char : 0e085d12-c584-11ed-afa1-0242ac120002"]}
+{"date": ["23-04-16 15:41:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:36.850 32333   550 E FaceOpenAdo: Char : 00002a05-0000-1000-8000-00805f9b34fb"]}
+{"date": ["23-04-16 15:41:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:36.850 32333   550 E FaceOpenAdo: Char : 00002b29-0000-1000-8000-00805f9b34fb"]}
+{"date": ["23-04-16 15:41:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:36.850 32333   550 E FaceOpenAdo: Char : 00002b2a-0000-1000-8000-00805f9b34fb"]}
+{"date": ["23-04-16 15:41:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:36.850 32333   550 E FaceOpenAdo: Char : 00002a00-0000-1000-8000-00805f9b34fb"]}
+{"date": ["23-04-16 15:41:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:36.850 32333   550 E FaceOpenAdo: Char : 00002a01-0000-1000-8000-00805f9b34fb"]}
+{"date": ["23-04-16 15:41:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:36.850 32333   550 E FaceOpenAdo: Char : 00002a04-0000-1000-8000-00805f9b34fb"]}
+{"date": ["23-04-16 15:41:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:36.850 32333   550 E FaceOpenAdo: Char : 00002aa4-0000-1000-8000-00805f9b34fb"]}
+{"date": ["23-04-16 15:41:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:36.850 32333   550 E FaceOpenAdo: Char : 00002aa5-0000-1000-8000-00805f9b34fb"]}
+{"date": ["23-04-16 15:41:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:36.850 32333   550 E FaceOpenAdo: Char : 00002a24-0000-1000-8000-00805f9b34fb"]}
+{"date": ["23-04-16 15:41:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:36.850 32333   550 E FaceOpenAdo: Char : 00002a29-0000-1000-8000-00805f9b34fb"]}
+{"date": ["23-04-16 15:41:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:37.353 32333   550 E FaceOpenAdo: onDescriptorWrite : f0ad0102-6661-6365-6f70-656e6f626f74 Status :SUCCESS"]}
+{"date": ["23-04-16 15:41:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:38.832 32333 32333 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:41:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:38.832 32333 32333 D FaceOpenAdo: request 1   9[1, 1, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:41:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:38.882 32333   550 D FaceOpenAdo: Full Packet response [1, 1, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:41:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:38.883 32333   550 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:41:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:38.883 32333   550 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:41:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:38.884 32333   550 D FaceOpenAdo: Full Packet response [1, 1, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:41:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:38.885 32333   550 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:41:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:38.885 32333   550 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:41:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:38.885 32333   550 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:41:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:38.887 32333   550 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:41:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:41.229 32333 32333 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:41:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:41.229 32333 32333 D FaceOpenAdo: request 1   9[1, 2, 0, 0, 1, 0, 2, 3, 6]  "]}
+{"date": ["23-04-16 15:41:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:41.360 32333   550 D FaceOpenAdo: Full Packet response [1, 2, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:41:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:41.360 32333   550 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:41:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:41.360 32333   550 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:41:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:41.361 32333   550 D FaceOpenAdo: Full Packet response [1, 2, 0, 0, 1, 0, 4, 6, 6, 6, 0]"]}
+{"date": ["23-04-16 15:41:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:41.361 32333   550 D FaceOpenAdo: Message Packet response [6, 6, 6, 0] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:41:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:41.361 32333   550 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:41:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:41.361 32333   550 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-ADO_RESTART_STATUS_RESP"]}
+{"date": ["23-04-16 15:41:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:41.364 32333   550 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:41:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:41.566 32333 32333 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:41:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:41.567 32333 32333 D FaceOpenAdo: request 1   9[1, 3, 0, 0, 1, 0, 2, 3, 10]  "]}
+{"date": ["23-04-16 15:41:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:41.630 32333   543 D FaceOpenAdo: Full Packet response [1, 3, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:41:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:41.630 32333   543 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:41:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:41.630 32333   543 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:41:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:41.631 32333   543 D FaceOpenAdo: Full Packet response [1, 3, 0, 0, 1, 0, 4, 6, 10, 10, 1]"]}
+{"date": ["23-04-16 15:41:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:41.631 32333   543 D FaceOpenAdo: Message Packet response [6, 10, 10, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:41:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:41.631 32333   543 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:41:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:41.631 32333   543 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-CALIBRATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:41:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:41.632 32333   543 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:41:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:43.124 32333 32333 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:41:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:43.124 32333 32333 D FaceOpenAdo: request 1   9[1, 4, 0, 0, 1, 0, 2, 3, 8]  "]}
+{"date": ["23-04-16 15:41:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:43.126 32333 32333 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:41:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:43.126 32333 32333 D FaceOpenAdo: request 1   9[1, 5, 0, 0, 1, 0, 2, 3, 8]  "]}
+{"date": ["23-04-16 15:41:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:43.248 32333   550 D FaceOpenAdo: Full Packet response [1, 5, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:41:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:43.248 32333   550 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:41:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:43.248 32333   550 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:41:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:43.339 32333   550 D FaceOpenAdo: Full Packet response [1, 5, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:41:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:43.339 32333   550 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:41:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:43.339 32333   550 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.423 32333 32333 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.423 32333 32333 D FaceOpenAdo: request 1   9[1, 6, 0, 0, 1, 0, 2, 3, 9]  "]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.508 32333   550 D FaceOpenAdo: Full Packet response [1, 6, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.508 32333   550 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.508 32333   550 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.509 32333   550 D FaceOpenAdo: Full Packet response [1, 6, 0, 0, 1, 0, 4, 6, 9, 9, 1]"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.509 32333   550 D FaceOpenAdo: Message Packet response [6, 9, 9, 1] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.509 32333   550 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.509 32333   550 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-INSTALLATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.512 32333   550 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.512 32333 32333 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.512 32333 32333 D FaceOpenAdo: request 1   9[1, 7, 0, 0, 1, 0, 2, 3, 11]  "]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.597 32333   550 D FaceOpenAdo: Full Packet response [1, 7, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.598 32333   550 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.598 32333   550 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.598 32333   550 D FaceOpenAdo: Full Packet response [1, 7, 0, 0, 1, 0, 4, 6, 11, 11, 4]"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.598 32333   550 D FaceOpenAdo: Message Packet response [6, 11, 11, 4] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.598 32333   550 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.598 32333   550 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-OPERATION_STATUS_RESP"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.599 32333   550 D FaceOpenAdo: 1 data length"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.601 32333 32333 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.601 32333 32333 D FaceOpenAdo: request 1   9[1, 8, 0, 0, 1, 0, 2, 3, 5]  "]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.687 32333   550 D FaceOpenAdo: Full Packet response [1, 8, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.687 32333   550 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.687 32333   550 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:41:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.733 32333   550 D FaceOpenAdo: Full Packet response [1, 8, 0, 0, 1, 0, 5, 6, 5, 5, 34, 0]"]}
+{"date": ["23-04-16 15:41:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.733 32333   550 D FaceOpenAdo: Message Packet response [6, 5, 5, 34, 0] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:41:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.733 32333   550 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:41:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.733 32333   550 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-ADO_BATTERY_PERCENT_RESP"]}
+{"date": ["23-04-16 15:41:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:46.077 32333 32333 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:41:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:46.077 32333 32333 D FaceOpenAdo: request 1   10[1, 9, 0, 0, 1, 0, 3, 2, 1, 0]  "]}
+{"date": ["23-04-16 15:41:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:46.128 32333   550 D FaceOpenAdo: Full Packet response [1, 9, 0, 0, 1, 0, 4, 4, 2, 1, 0]"]}
+{"date": ["23-04-16 15:41:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:46.128 32333   550 D FaceOpenAdo: Message Packet response [4, 2, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:41:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:46.128 32333   550 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:41:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:46.669 32333  3633 D FaceOpenAdo: Full Packet response [1, 9, 0, 0, 1, 0, 3, 12, 1, 1]"]}
+{"date": ["23-04-16 15:41:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:46.670 32333  3633 D FaceOpenAdo: Message Packet response [12, 1, 1] MessageType [ ADO_OPERATIONS_RESPONSE(12)] "]}
+{"date": ["23-04-16 15:41:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:46.670 32333  3633 D FaceOpenAdo: ADO_OPERATIONS_RESPONSE"]}
+{"date": ["23-04-16 15:41:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:52.878 32333  3633 D FaceOpenAdo: Full Packet response [1, 9, 0, 0, 1, 0, 3, 12, 1, 2]"]}
+{"date": ["23-04-16 15:41:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:52.878 32333  3633 D FaceOpenAdo: Message Packet response [12, 1, 2] MessageType [ ADO_OPERATIONS_RESPONSE(12)] "]}
+{"date": ["23-04-16 15:41:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:52.878 32333  3633 D FaceOpenAdo: ADO_OPERATIONS_RESPONSE"]}
+{"date": ["23-04-16 15:42:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:05.531 32333 32333 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:42:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:05.531 32333 32333 D FaceOpenAdo: request 1   9[1, 10, 0, 0, 1, 0, 2, 2, 2]  "]}
+{"date": ["23-04-16 15:42:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:05.613 32333  3633 D FaceOpenAdo: Full Packet response [1, 10, 0, 0, 1, 0, 4, 4, 2, 1, 0]"]}
+{"date": ["23-04-16 15:42:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:05.613 32333  3633 D FaceOpenAdo: Message Packet response [4, 2, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:42:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:05.613 32333  3633 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:42:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:05.658 32333   550 D FaceOpenAdo: Full Packet response [1, 10, 0, 0, 1, 0, 3, 12, 2, 3]"]}
+{"date": ["23-04-16 15:42:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:05.659 32333   550 D FaceOpenAdo: Message Packet response [12, 2, 3] MessageType [ ADO_OPERATIONS_RESPONSE(12)] "]}
+{"date": ["23-04-16 15:42:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:05.659 32333   550 D FaceOpenAdo: ADO_OPERATIONS_RESPONSE"]}
+{"date": ["23-04-16 15:42:07"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:07.029 32333 32333 D FaceOpenAdo: -------------------------------------------------------------------------------"]}
+{"date": ["23-04-16 15:42:07"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:07.029 32333 32333 D FaceOpenAdo: request 1   9[1, 11, 0, 0, 1, 0, 2, 3, 5]  "]}
+{"date": ["23-04-16 15:42:07"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:07.097 32333   550 D FaceOpenAdo: Full Packet response [1, 11, 0, 0, 1, 0, 4, 4, 3, 1, 0]"]}
+{"date": ["23-04-16 15:42:07"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:07.098 32333   550 D FaceOpenAdo: Message Packet response [4, 3, 1, 0] MessageType [ ADO_COMMAND_RESPONSE(4)] "]}
+{"date": ["23-04-16 15:42:07"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:07.098 32333   550 D FaceOpenAdo: ADO_COMMAND_RESPONSE"]}
+{"date": ["23-04-16 15:42:07"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:07.278 32333   550 D FaceOpenAdo: Full Packet response [1, 11, 0, 0, 1, 0, 5, 6, 5, 5, 34, 0]"]}
+{"date": ["23-04-16 15:42:07"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:07.278 32333   550 D FaceOpenAdo: Message Packet response [6, 5, 5, 34, 0] MessageType [ ADO_DEVICE_STATUS_RESPONSE(6)] "]}
+{"date": ["23-04-16 15:42:07"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:07.278 32333   550 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE"]}
+{"date": ["23-04-16 15:42:07"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:07.278 32333   550 D FaceOpenAdo: ADO_DEVICE_STATUS_RESPONSE is :-ADO_BATTERY_PERCENT_RESP"]}
+{"date": ["23-04-16 15:42:14"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:13.759 32333   550 D FaceOpenAdo: Full Packet response [1, 11, 0, 0, 1, 0, 3, 12, 2, 4]"]}
+{"date": ["23-04-16 15:42:14"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:13.759 32333   550 D FaceOpenAdo: Message Packet response [12, 2, 4] MessageType [ ADO_OPERATIONS_RESPONSE(12)] "]}
+{"date": ["23-04-16 15:42:14"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:13.759 32333   550 D FaceOpenAdo: ADO_OPERATIONS_RESPONSE"]}

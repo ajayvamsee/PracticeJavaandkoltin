@@ -1,0 +1,14 @@
+{"date": ["23-04-16 15:39:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:37.727 29675 29675 D DooropenActivityLogs: observeForever ADO_STATE_CONNECTED"]}
+{"date": ["23-04-16 15:39:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:37.727 29675 29675 D DooropenActivityLogs:  ADO_STATE_CONNECTED"]}
+{"date": ["23-04-16 15:39:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:37.727 29675 29675 D DooropenActivityLogs: FragmentStack Current Destination: ADOFragment  6"]}
+{"date": ["23-04-16 15:40:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:37.127 29675 29675 D DooropenActivityLogs: Running on Android O"]}
+{"date": ["23-04-16 15:40:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:37.131 29675 29675 D DooropenActivityLogs: observeForever ADO_STATE_CONNECTED"]}
+{"date": ["23-04-16 15:40:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:37.131 29675 29675 D DooropenActivityLogs:  ADO_STATE_CONNECTED"]}
+{"date": ["23-04-16 15:40:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:37.131 29675 29675 D DooropenActivityLogs: FragmentStack Current Destination: ADOFragment  7"]}
+{"date": ["23-04-16 15:41:22"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:22.108 32333 32333 D DooropenActivityLogs: FragmentStack Current Destination: fragment_ado_scan  1"]}
+{"date": ["23-04-16 15:41:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:37.357 32333 32333 D DooropenActivityLogs: observeForever ADO_STATE_CONNECTED"]}
+{"date": ["23-04-16 15:41:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:37.357 32333 32333 D DooropenActivityLogs:  ADO_STATE_CONNECTED"]}
+{"date": ["23-04-16 15:41:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:38.736 32333 32333 D DooropenActivityLogs: FragmentStack Current Destination: fragment_ado_setup  2"]}
+{"date": ["23-04-16 15:41:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:40.067 32333 32333 D DooropenActivityLogs: FragmentStack Current Destination: CalibrationFragment  3"]}
+{"date": ["23-04-16 15:41:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:43.016 32333 32333 D DooropenActivityLogs: FragmentStack Current Destination: WifiFragment  4"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.293 32333 32333 D DooropenActivityLogs: FragmentStack Current Destination: ADOFragment  5"]}

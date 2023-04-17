@@ -1,0 +1,287 @@
+{"date": ["23-04-16 15:39:19"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:19.109 29675 29675 D ADOFragment: OPENING"]}
+{"date": ["23-04-16 15:39:21"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:21.501 29675 29675 D ADOFragment: onPause: "]}
+{"date": ["23-04-16 15:39:25"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:25.093 29675 29675 D ADOFragment: OPENED"]}
+{"date": ["23-04-16 15:39:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:37.727 29675 29675 D DooropenActivityLogs: FragmentStack Current Destination: ADOFragment  6"]}
+{"date": ["23-04-16 15:39:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:37.728 29675 29675 D ADOFragment: onResume: --------------------------------------"]}
+{"date": ["23-04-16 15:39:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:37.751 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:37.751 29675 29675 D ADOFragment: retry: 2"]}
+{"date": ["23-04-16 15:39:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:37.751 29675 29675 D ADOFragment: retry: Installations 2"]}
+{"date": ["23-04-16 15:39:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:38.753 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:38.753 29675 29675 D ADOFragment: retry: 3"]}
+{"date": ["23-04-16 15:39:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:38.754 29675 29675 D ADOFragment: retry: Installations 3"]}
+{"date": ["23-04-16 15:39:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:39.755 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:39.755 29675 29675 D ADOFragment: retry: 4"]}
+{"date": ["23-04-16 15:39:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:39.756 29675 29675 D ADOFragment: retry: Installations 4"]}
+{"date": ["23-04-16 15:39:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:40.757 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:40.757 29675 29675 D ADOFragment: retry: 5"]}
+{"date": ["23-04-16 15:39:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:40.759 29675 29675 D ADOFragment: retry: Installations 5"]}
+{"date": ["23-04-16 15:39:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:41.759 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:41.760 29675 29675 D ADOFragment: retry: 6"]}
+{"date": ["23-04-16 15:39:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:41.760 29675 29675 D ADOFragment: retry: Installations 6"]}
+{"date": ["23-04-16 15:39:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:42.762 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:42.762 29675 29675 D ADOFragment: retry: 7"]}
+{"date": ["23-04-16 15:39:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:42.763 29675 29675 D ADOFragment: retry: Installations 7"]}
+{"date": ["23-04-16 15:39:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:43.764 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:43.764 29675 29675 D ADOFragment: retry: 8"]}
+{"date": ["23-04-16 15:39:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:43.765 29675 29675 D ADOFragment: retry: Installations 8"]}
+{"date": ["23-04-16 15:39:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:44.766 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:44.766 29675 29675 D ADOFragment: retry: 9"]}
+{"date": ["23-04-16 15:39:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:44.767 29675 29675 D ADOFragment: retry: Installations 9"]}
+{"date": ["23-04-16 15:39:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:45.768 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:45.768 29675 29675 D ADOFragment: retry: 10"]}
+{"date": ["23-04-16 15:39:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:45.769 29675 29675 D ADOFragment: retry: Installations 10"]}
+{"date": ["23-04-16 15:39:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:46.770 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:46.770 29675 29675 D ADOFragment: retry: 11"]}
+{"date": ["23-04-16 15:39:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:46.771 29675 29675 D ADOFragment: retry: Installations 11"]}
+{"date": ["23-04-16 15:39:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:47.772 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:47.772 29675 29675 D ADOFragment: retry: 12"]}
+{"date": ["23-04-16 15:39:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:47.773 29675 29675 D ADOFragment: retry: Installations 12"]}
+{"date": ["23-04-16 15:39:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:48.774 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:48.774 29675 29675 D ADOFragment: retry: 13"]}
+{"date": ["23-04-16 15:39:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:48.776 29675 29675 D ADOFragment: retry: Installations 13"]}
+{"date": ["23-04-16 15:39:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:49.619 29675 29675 D ADOFragment: CLOSING"]}
+{"date": ["23-04-16 15:39:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:49.776 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:49.776 29675 29675 D ADOFragment: retry: 14"]}
+{"date": ["23-04-16 15:39:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:49.777 29675 29675 D ADOFragment: retry: Installations 14"]}
+{"date": ["23-04-16 15:39:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:50.778 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:50.778 29675 29675 D ADOFragment: retry: 15"]}
+{"date": ["23-04-16 15:39:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:50.779 29675 29675 D ADOFragment: retry: Installations 15"]}
+{"date": ["23-04-16 15:39:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:51.779 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:51.779 29675 29675 D ADOFragment: retry: 16"]}
+{"date": ["23-04-16 15:39:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:51.780 29675 29675 D ADOFragment: retry: Installations 16"]}
+{"date": ["23-04-16 15:39:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:52.780 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:52.781 29675 29675 D ADOFragment: retry: 17"]}
+{"date": ["23-04-16 15:39:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:52.781 29675 29675 D ADOFragment: retry: Installations 17"]}
+{"date": ["23-04-16 15:39:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:53.782 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:53.782 29675 29675 D ADOFragment: retry: 18"]}
+{"date": ["23-04-16 15:39:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:53.783 29675 29675 D ADOFragment: retry: Installations 18"]}
+{"date": ["23-04-16 15:39:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:54.784 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:54.784 29675 29675 D ADOFragment: retry: 19"]}
+{"date": ["23-04-16 15:39:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:54.785 29675 29675 D ADOFragment: retry: Installations 19"]}
+{"date": ["23-04-16 15:39:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:55.786 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:55.786 29675 29675 D ADOFragment: retry: 20"]}
+{"date": ["23-04-16 15:39:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:55.787 29675 29675 D ADOFragment: retry: Installations 20"]}
+{"date": ["23-04-16 15:39:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:56.788 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:56.788 29675 29675 D ADOFragment: retry: 21"]}
+{"date": ["23-04-16 15:39:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:56.789 29675 29675 D ADOFragment: retry: Installations 21"]}
+{"date": ["23-04-16 15:39:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:57.674 29675 29675 D ADOFragment: CLOSED"]}
+{"date": ["23-04-16 15:39:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:57.789 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:57.789 29675 29675 D ADOFragment: retry: 22"]}
+{"date": ["23-04-16 15:39:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:57.790 29675 29675 D ADOFragment: retry: Installations 22"]}
+{"date": ["23-04-16 15:39:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:58.791 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:39:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:58.791 29675 29675 D ADOFragment: retry: 23"]}
+{"date": ["23-04-16 15:39:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:58.792 29675 29675 D ADOFragment: retry: Installations 23"]}
+{"date": ["23-04-16 15:40:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:59.793 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:59.793 29675 29675 D ADOFragment: retry: 24"]}
+{"date": ["23-04-16 15:40:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:09:59.794 29675 29675 D ADOFragment: retry: Installations 24"]}
+{"date": ["23-04-16 15:40:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:00.794 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:00.795 29675 29675 D ADOFragment: retry: 25"]}
+{"date": ["23-04-16 15:40:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:00.795 29675 29675 D ADOFragment: retry: Installations 25"]}
+{"date": ["23-04-16 15:40:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:01.796 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:01.796 29675 29675 D ADOFragment: retry: 26"]}
+{"date": ["23-04-16 15:40:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:01.797 29675 29675 D ADOFragment: retry: Installations 26"]}
+{"date": ["23-04-16 15:40:03"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:02.798 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:03"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:02.798 29675 29675 D ADOFragment: retry: 27"]}
+{"date": ["23-04-16 15:40:03"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:02.799 29675 29675 D ADOFragment: retry: Installations 27"]}
+{"date": ["23-04-16 15:40:04"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:03.799 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:04"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:03.799 29675 29675 D ADOFragment: retry: 28"]}
+{"date": ["23-04-16 15:40:04"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:03.800 29675 29675 D ADOFragment: retry: Installations 28"]}
+{"date": ["23-04-16 15:40:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:04.801 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:04.802 29675 29675 D ADOFragment: retry: 29"]}
+{"date": ["23-04-16 15:40:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:04.803 29675 29675 D ADOFragment: retry: Installations 29"]}
+{"date": ["23-04-16 15:40:06"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:05.803 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:06"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:05.803 29675 29675 D ADOFragment: retry: 30"]}
+{"date": ["23-04-16 15:40:06"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:05.804 29675 29675 D ADOFragment: retry: Installations 30"]}
+{"date": ["23-04-16 15:40:07"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:06.805 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:07"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:06.805 29675 29675 D ADOFragment: retrying else block and removing retry callback"]}
+{"date": ["23-04-16 15:40:34"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:34.635 29675 29675 D ADOFragment: onPause: "]}
+{"date": ["23-04-16 15:40:35"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:35.257 29675 29675 D ADOFragment: onStop: "]}
+{"date": ["23-04-16 15:40:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:37.117 29675 29675 D ADOFragment: onStart: "]}
+{"date": ["23-04-16 15:40:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:37.131 29675 29675 D DooropenActivityLogs: FragmentStack Current Destination: ADOFragment  7"]}
+{"date": ["23-04-16 15:40:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:37.131 29675 29675 D ADOFragment: onResume: --------------------------------------"]}
+{"date": ["23-04-16 15:40:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:37.169 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:37.169 29675 29675 D ADOFragment: retry: 1"]}
+{"date": ["23-04-16 15:40:37"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:37.170 29675 29675 D ADOFragment: retry: Installations 1"]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.170 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.171 29675 29675 D ADOFragment: retry: 2"]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.171 29675 29675 D ADOFragment: retry: Installations 2"]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.170 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.171 29675 29675 D ADOFragment: retry: 2"]}
+{"date": ["23-04-16 15:40:38"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:38.171 29675 29675 D ADOFragment: retry: Installations 2"]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.172 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.172 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.172 29675 29675 D ADOFragment: retry: 3"]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.173 29675 29675 D ADOFragment: retry: Installations 3"]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.172 29675 29675 D ADOFragment: retry: 3"]}
+{"date": ["23-04-16 15:40:39"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:39.173 29675 29675 D ADOFragment: retry: Installations 3"]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.174 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.174 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.174 29675 29675 D ADOFragment: retry: 4"]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.175 29675 29675 D ADOFragment: retry: Installations 4"]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.174 29675 29675 D ADOFragment: retry: 4"]}
+{"date": ["23-04-16 15:40:40"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:40.175 29675 29675 D ADOFragment: retry: Installations 4"]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.176 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.176 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.176 29675 29675 D ADOFragment: retry: 5"]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.177 29675 29675 D ADOFragment: retry: Installations 5"]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.176 29675 29675 D ADOFragment: retry: 5"]}
+{"date": ["23-04-16 15:40:41"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:41.177 29675 29675 D ADOFragment: retry: Installations 5"]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.177 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.177 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.178 29675 29675 D ADOFragment: retry: 6"]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.179 29675 29675 D ADOFragment: retry: Installations 6"]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.178 29675 29675 D ADOFragment: retry: 6"]}
+{"date": ["23-04-16 15:40:42"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:42.179 29675 29675 D ADOFragment: retry: Installations 6"]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.179 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.179 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.180 29675 29675 D ADOFragment: retry: 7"]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.180 29675 29675 D ADOFragment: retry: Installations 7"]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.180 29675 29675 D ADOFragment: retry: 7"]}
+{"date": ["23-04-16 15:40:43"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:43.180 29675 29675 D ADOFragment: retry: Installations 7"]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.180 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.180 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.181 29675 29675 D ADOFragment: retry: 8"]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.181 29675 29675 D ADOFragment: retry: Installations 8"]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.181 29675 29675 D ADOFragment: retry: 8"]}
+{"date": ["23-04-16 15:40:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:44.181 29675 29675 D ADOFragment: retry: Installations 8"]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.182 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.182 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.182 29675 29675 D ADOFragment: retry: 9"]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.183 29675 29675 D ADOFragment: retry: Installations 9"]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.182 29675 29675 D ADOFragment: retry: 9"]}
+{"date": ["23-04-16 15:40:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:45.183 29675 29675 D ADOFragment: retry: Installations 9"]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.184 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.184 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.184 29675 29675 D ADOFragment: retry: 10"]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.185 29675 29675 D ADOFragment: retry: Installations 10"]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.184 29675 29675 D ADOFragment: retry: 10"]}
+{"date": ["23-04-16 15:40:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:46.185 29675 29675 D ADOFragment: retry: Installations 10"]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.186 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.186 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.186 29675 29675 D ADOFragment: retry: 11"]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.187 29675 29675 D ADOFragment: retry: Installations 11"]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.186 29675 29675 D ADOFragment: retry: 11"]}
+{"date": ["23-04-16 15:40:47"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:47.187 29675 29675 D ADOFragment: retry: Installations 11"]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.187 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.187 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.187 29675 29675 D ADOFragment: retry: 12"]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.188 29675 29675 D ADOFragment: retry: Installations 12"]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.187 29675 29675 D ADOFragment: retry: 12"]}
+{"date": ["23-04-16 15:40:48"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:48.188 29675 29675 D ADOFragment: retry: Installations 12"]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.188 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.188 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.188 29675 29675 D ADOFragment: retry: 13"]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.189 29675 29675 D ADOFragment: retry: Installations 13"]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.188 29675 29675 D ADOFragment: retry: 13"]}
+{"date": ["23-04-16 15:40:49"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:49.189 29675 29675 D ADOFragment: retry: Installations 13"]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.189 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.189 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.189 29675 29675 D ADOFragment: retry: 14"]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.190 29675 29675 D ADOFragment: retry: Installations 14"]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.189 29675 29675 D ADOFragment: retry: 14"]}
+{"date": ["23-04-16 15:40:50"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:50.190 29675 29675 D ADOFragment: retry: Installations 14"]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.192 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.192 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.192 29675 29675 D ADOFragment: retry: 15"]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.193 29675 29675 D ADOFragment: retry: Installations 15"]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.192 29675 29675 D ADOFragment: retry: 15"]}
+{"date": ["23-04-16 15:40:51"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:51.193 29675 29675 D ADOFragment: retry: Installations 15"]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.193 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.193 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.194 29675 29675 D ADOFragment: retry: 16"]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.195 29675 29675 D ADOFragment: retry: Installations 16"]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.194 29675 29675 D ADOFragment: retry: 16"]}
+{"date": ["23-04-16 15:40:52"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:52.195 29675 29675 D ADOFragment: retry: Installations 16"]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.195 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.195 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.195 29675 29675 D ADOFragment: retry: 17"]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.196 29675 29675 D ADOFragment: retry: Installations 17"]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.195 29675 29675 D ADOFragment: retry: 17"]}
+{"date": ["23-04-16 15:40:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:53.196 29675 29675 D ADOFragment: retry: Installations 17"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.197 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.197 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.197 29675 29675 D ADOFragment: retry: 18"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.198 29675 29675 D ADOFragment: retry: Installations 18"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.197 29675 29675 D ADOFragment: retry: 18"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.198 29675 29675 D ADOFragment: retry: Installations 18"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.692 29675 29675 D ADOFragment: CLOSING"]}
+{"date": ["23-04-16 15:40:54"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:54.692 29675 29675 D ADOFragment: CLOSING"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.198 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.198 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.199 29675 29675 D ADOFragment: retry: 19"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.199 29675 29675 D ADOFragment: retry: Installations 19"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.199 29675 29675 D ADOFragment: retry: 19"]}
+{"date": ["23-04-16 15:40:55"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:55.199 29675 29675 D ADOFragment: retry: Installations 19"]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.199 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.199 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.200 29675 29675 D ADOFragment: retry: 20"]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.200 29675 29675 D ADOFragment: retry: Installations 20"]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.200 29675 29675 D ADOFragment: retry: 20"]}
+{"date": ["23-04-16 15:40:56"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:56.200 29675 29675 D ADOFragment: retry: Installations 20"]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.201 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.201 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.201 29675 29675 D ADOFragment: retry: 21"]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.202 29675 29675 D ADOFragment: retry: Installations 21"]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.201 29675 29675 D ADOFragment: retry: 21"]}
+{"date": ["23-04-16 15:40:57"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:57.202 29675 29675 D ADOFragment: retry: Installations 21"]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.202 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.202 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.202 29675 29675 D ADOFragment: retry: 22"]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.203 29675 29675 D ADOFragment: retry: Installations 22"]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.202 29675 29675 D ADOFragment: retry: 22"]}
+{"date": ["23-04-16 15:40:58"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:58.203 29675 29675 D ADOFragment: retry: Installations 22"]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.204 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.204 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.204 29675 29675 D ADOFragment: retry: 23"]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.205 29675 29675 D ADOFragment: retry: Installations 23"]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.204 29675 29675 D ADOFragment: retry: 23"]}
+{"date": ["23-04-16 15:40:59"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:10:59.205 29675 29675 D ADOFragment: retry: Installations 23"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.205 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.205 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.205 29675 29675 D ADOFragment: retry: 24"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.206 29675 29675 D ADOFragment: retry: Installations 24"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.205 29675 29675 D ADOFragment: retry: 24"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.206 29675 29675 D ADOFragment: retry: Installations 24"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.322 29675 29675 D ADOFragment: CLOSED"]}
+{"date": ["23-04-16 15:41:00"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:00.322 29675 29675 D ADOFragment: CLOSED"]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.206 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.206 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.206 29675 29675 D ADOFragment: retry: 25"]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.207 29675 29675 D ADOFragment: retry: Installations 25"]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.206 29675 29675 D ADOFragment: retry: 25"]}
+{"date": ["23-04-16 15:41:01"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:01.207 29675 29675 D ADOFragment: retry: Installations 25"]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.207 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.207 29675 29675 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.208 29675 29675 D ADOFragment: retry: 26"]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.208 29675 29675 D ADOFragment: retry: Installations 26"]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.208 29675 29675 D ADOFragment: retry: 26"]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.208 29675 29675 D ADOFragment: retry: Installations 26"]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.724 29675 29675 D ADOFragment: onPause: "]}
+{"date": ["23-04-16 15:41:02"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:02.724 29675 29675 D ADOFragment: onPause: "]}
+{"date": ["23-04-16 15:41:03"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:03.197 29675 29675 D ADOFragment: onStop: "]}
+{"date": ["23-04-16 15:41:03"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:03.197 29675 29675 D ADOFragment: onStop: "]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.293 32333 32333 D DooropenActivityLogs: FragmentStack Current Destination: ADOFragment  5"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.305 32333 32333 D ADOFragment: onAttach: "]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.305 32333 32333 D ADOFragment: onCreate: "]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.306 32333 32333 D ADOFragment: onCreateView: "]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.390 32333 32333 D ADOFragment: onViewCreated: "]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.391 32333 32333 D ADOFragment: onViewCreated: installationStatus"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.391 32333 32333 D ADOFragment: setObserver: "]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.392 32333 32333 D ADOFragment: setViewListener: "]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.393 32333 32333 D ADOFragment: onStart: "]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.393 32333 32333 D ADOFragment:  ADO_STATE_CONNECTED"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.394 32333 32333 D ADOFragment: getAutoCloseTime :- 10"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.394 32333 32333 D ADOFragment: getBattery :- 0"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.412 32333 32333 D ADOFragment: onResume: --------------------------------------"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.422 32333 32333 D ADOFragment: retrying"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.423 32333 32333 D ADOFragment: retry: 1"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.423 32333 32333 D ADOFragment: retry: Installations 1"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.512 32333 32333 D ADOFragment:  getInstallationStatus 1"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.512 32333 32333 D ADOFragment: getInstallationStatus Installed"]}
+{"date": ["23-04-16 15:41:44"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.599 32333 32333 D ADOFragment: getOperationStatus CLOSED"]}
+{"date": ["23-04-16 15:41:45"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:44.733 32333 32333 D ADOFragment: getBattery :- 34"]}
+{"date": ["23-04-16 15:41:46"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:46.670 32333 32333 D ADOFragment: OPENING"]}
+{"date": ["23-04-16 15:41:53"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:11:52.879 32333 32333 D ADOFragment: OPENED"]}
+{"date": ["23-04-16 15:42:05"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:05.659 32333 32333 D ADOFragment: CLOSING"]}
+{"date": ["23-04-16 15:42:07"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:07.278 32333 32333 D ADOFragment: getBattery :- 34"]}
+{"date": ["23-04-16 15:42:14"], "message": ["android_id:e1144c4e03e5b90d : logs:04-16 21:12:13.759 32333 32333 D ADOFragment: CLOSED"]}
