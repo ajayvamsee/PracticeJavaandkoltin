@@ -1,3 +1,5 @@
+package java;
+
 import javax.imageio.stream.IIOByteBuffer;
 import java.io.File;
 

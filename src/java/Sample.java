@@ -1,3 +1,5 @@
+package java;
+
 public class Sample {
 
     static void bubbleSort(int[] arr) {
