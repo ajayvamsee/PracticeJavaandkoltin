@@ -1,3 +1,4 @@
+package kotlinPratice
 fun main() {
 
 

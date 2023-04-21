@@ -1,4 +1,4 @@
-
+package kotlinPratice
 class Lambas {
 }
 

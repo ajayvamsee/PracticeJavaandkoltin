@@ -1,3 +1,4 @@
+package kotlinPratice
 class Lambda {
 }
 

@@ -1,4 +1,4 @@
-
+package kotlinPratice
 
 fun main(){
     val obj = InterfaceSample()
@@ -15,7 +15,7 @@ fun main(){
     println()
 
 
-    val male = Male()
+    val male = Male1()
 
     println(male.eyeColor())
 
@@ -25,7 +25,7 @@ fun main(){
     println("male 1 obj ${male1.eyeColor()}")
 }
 // a class extends PersonDetails
-class Male : PersonDetails{
+class Male1 : PersonDetails{
     override fun eyeColor() = "Black"
 
 }
