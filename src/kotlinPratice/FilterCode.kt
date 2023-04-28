@@ -14,20 +14,17 @@ class FilterCode {
         const val frag = "Fragment:"
     }
 }
-
-
-
     fun main() {
-        val inputFile = File("C:\\Users\\Public\\java\\PracticeJava\\src\\data\\results_6.txt")
-        val outputFile = File("C:\\Users\\Public\\java\\PracticeJava\\src\\data\\fragment_6.txt")
+        val inputFile = File("D:\\java\\PracticeJava\\src\\data\\results_24.txt")
+        val outputFile = File("D:\\java\\PracticeJava\\src\\data\\frag_24.txt")
 
         outputFile.bufferedWriter().use { writer ->
             inputFile.bufferedReader().useLines { lines ->
                 lines.filter { line ->
-                    println("Only Line $line")
+                    //println("Only Line $line")
                     FilterCode.frag in line
                 }.forEach { matchingLine ->
-                    println("macting line $matchingLine")
+                    //println("matching line $matchingLine")
                     writer.write(matchingLine + "\n")
                 }
             }

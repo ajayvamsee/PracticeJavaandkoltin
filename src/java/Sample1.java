@@ -1,10 +1,22 @@
 package java;
 
+import kotlinPratice.SealedClassSample;
+
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 public class Sample1 {
     public static void main(String args[]) throws FileNotFoundException {
+
+
+
+
+
+
+
+
+
+
         //Reading the word to be found from the user
         Scanner sc1 = new Scanner(System.in);
         System.out.println("Enter the word to be found");
