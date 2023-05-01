@@ -55,9 +55,6 @@ class FinalSampleOuter(private val data:String) : NestedSample(secondName = data
     }
 
     fun dummy(){
-        object Sample{
-
-        }
     }
 
 
